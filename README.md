@@ -5,4 +5,4 @@ ReactNative on Existing Android(kotlin)&amp;iOS(swift)
 
 /android : [Android Host App](https://github.com/jidogoon/ReactNativeStudyAndroidHost)
 
-/ios : [Android Host App](https://github.com/jidogoon/ReactNativeStudyiOSHost)
+/ios : [iOS Host App](https://github.com/jidogoon/ReactNativeStudyiOSHost)
