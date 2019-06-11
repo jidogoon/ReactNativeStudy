@@ -1,0 +1,6 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/jidogoon/ReactNativeStudyAndroidHost
+[submodule "ios"]
+	path = ios
+	url = https://github.com/jidogoon/ReactNativeStudyiOSHost
